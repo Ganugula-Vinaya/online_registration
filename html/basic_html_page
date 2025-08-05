@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!-- Above is a declaration that this page is a valid HTML document for browser -->
+<html lang="en">
+<!-- HTML is root element -->
+<head>
+    <!-- For declaration and showing title of the page -->
+    <meta charset="UTF-8" />
+    <title>My First web page</title>
+</head>
+<body>
+    <!-- showing all visible content -->
+    <h1>Welcome to my portfolio based website</h1>
+    
+    <!-- Profile Image -->
+    <img src="../assets/images/vinaya.jpg" alt="My Image" width="200" height="200">
+    
+    <!-- About Me -->
+    <p>Hello! I am Ganugula Vinaya, a passionate .NET and MongoDB developer, currently exploring 
+       web development, database design, and secure coding practices. I enjoy building scalable 
+       applications and learning modern technologies.</p>
+    
+    <!-- Skills or Highlights -->
+    <h2>My Skills</h2>
+    <ul>
+        <li>C# and .NET Core Development</li>
+        <li>MongoDB & SQL Database Design</li>
+        <li>HTML, CSS, and Basic JavaScript</li>
+        <li>Secure Coding and Error Handling</li>
+    </ul>
+
+    <!-- External Link -->
+    <p>Visit: <a href="https://www.linkedin.com/in/vinaya-ganugula?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">My LinkedIn Link</a></p>
+</body>
+
+</html>
